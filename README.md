@@ -27,7 +27,7 @@ to the ```require``` section of your `composer.json` file.
     	'components' => array(
     		...
 	        'pushBullet' => [
-	            'class' => '\xiaogouxo\ip2region\pushbullet\PushBullet',
+	            'class' => '\xiaogouxo\pushbullet\PushBullet',
 	            'apiKey' => 'XXXX',
 	        ]
     		...
