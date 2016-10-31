@@ -1,11 +1,9 @@
 # yii2-pushbullet
-A simple pushbullet extension for yii2
+A simple pushbullet extension for yii2. 
 
-Any push from your yii2
-
- *all kinds of push like note link file & etc.. supported.
- *easy to use in 5 secs 
- *push your message to any devices
+* All kinds of push like note link file & etc.. supported.
+* Easy to use in 5 secs 
+* Any push from your yii2
 
 ## Installation
 
@@ -38,8 +36,10 @@ to the ```require``` section of your `composer.json` file.
 Simple Usage
 =====
 $channelTagName = "myhashtag";
+
 Yii::$app->pushBullet->pushNote($channelTagName,"hello","welcome to my channel");
-*Channel push has alreadly tested.Others not yet ~_~
+
+* Channel push has alreadly tested.Others not yet ~_~
 
 More
 =====
