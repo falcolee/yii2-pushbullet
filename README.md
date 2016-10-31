@@ -1,5 +1,5 @@
 # yii2-pushbullet
-pushbullet extension for yii2
+A simple pushbullet extension for yii2
 
 Any push from your yii2
 
